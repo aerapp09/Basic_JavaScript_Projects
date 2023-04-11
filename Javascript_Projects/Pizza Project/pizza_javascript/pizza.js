@@ -32,8 +32,8 @@ function getReceipt() {
 
 function getTopping(runningTotal,text1) {
     var toppingTotal = 0;
-    var selectedTopping = [];
-    var toppingArray = document.getElementsByClassName("toppings");
+    var selectedTopping = []; //empty array
+    var toppingArray = document.getElementsByClassName("toppings"); //pushto toppings object
     for (var j = 0; j < toppingArray.length; j++) {
         if (toppingArray [j].checked) {
             selectedTopping.push(toppingArray[j].value);

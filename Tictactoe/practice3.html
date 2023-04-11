@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+    <head>
+        <title>Title</title>
+        <meta charset='UTF-8'>
+        
+    </head>
+    <body>
+        
+       <script>
+        var ages = [2, 10, 18, 20, 13, 15, 30];
+        //using the arrow function to pass in a parameter of age
+        checkAge = (age) => age => 18;
+        //using the arrow function to pass in a parameter of age
+        function myFunction() {
+            document.getElementById('displayAge').innerHTML = ages.some(checkAge);
+        }
+        </script>
+        <button onclick="myFunction()">Click here</button>
+        <p id="displayAge"></p>
+     
+    </body>
+</html>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="myDog"></p>
+        <script>
+            /*This is a JSON string variable. NOTICE THAT KEY VALUE PAIR ALL IN QUOTES */
+            var dog= '{"name": "Dax", "breed": "Great Pyrenees", "color": "White"}';
+            /*convert JavaScript objects to string format */
+            var JSONstring = JSON.parse(dog);
+            document.getElementById("myDog").innerHTML = JSONstring.name + " the " + 
+            JSONstring.breed;
+        </script>
+    </body>
+</html>

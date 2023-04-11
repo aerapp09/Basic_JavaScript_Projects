@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+    <head>
+        <title>Title</title>
+        <meta charset='UTF-8'>
+        
+    </head>
+    <body>
+        <p id="thirty"></p>
+        <button onclick="myFunction()">Click here</button>
+        <p id="displayCar"></p>
+        <script>
+            myFunction= () => 5*6;
+            document.getElementById("thirty").innerHTML = myFunction()
+            var car;
+            car = (val) => "These are my favorite car brands: " + val;
+            document.getElementById('displayCar').innerHTML = car("Honda, Ford, and Nissan");
+        </script>
+     
+    </body>
+</html>
