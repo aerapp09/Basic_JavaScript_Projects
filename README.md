@@ -19,7 +19,7 @@ This project displays the utility of Javascript. You can
 4. Double click on the Tictactoe.html file in the Tictactoe folder and open with a browser.
 
 ## Where users can get help with your project
-Message me on Linkedin or email on my homepage
+Message me on [LinkedIn](https://www.linkedin.com/in/austin-develops/) or through my [email](aerapp09@gmail.com).
 
 ## Who maintains and contributes to the project
 Me!
