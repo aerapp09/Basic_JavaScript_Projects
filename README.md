@@ -10,12 +10,13 @@ This contains projects for getting started with Javascript and ends with 3 apps:
 This project displays the utility of Javascript. You can 
 
 ## How users can get started with the project
-1. Clone the repository.
+1. Clone the repository. Click [JavaScript_Projects Repository Page](/JavaScript_Projects)
+2. Click the green "Code" button. You have the option of downloading the Zip or use the Github app. 
 
-2. Click on the folder for one of the applications. A good starting app is the TicTacToe app, which you can see here:
+3. Once downloaded. Unzip the file so it is in a folder on your computer. Click on the folder for one of the applications. A good starting app is the TicTacToe app, which you can see here:
 [Using Javascript to make a Tic Tac Toe Game](/Tictactoe/Tictactoe.html)
 
-3. Double click on the Tictactoe.html file in the Tictactoe folder and open with a browser.
+4. Double click on the Tictactoe.html file in the Tictactoe folder and open with a browser.
 
 ## Where users can get help with your project
 Message me on Linkedin or email on my homepage
