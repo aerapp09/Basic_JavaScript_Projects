@@ -10,7 +10,7 @@ This contains projects for getting started with Javascript and ends with 3 apps:
 This project displays the utility of Javascript. You can 
 
 ## How users can get started with the project
-1. Clone the repository. Click [JavaScript_Projects Repository Page](./JavaScript_Projects)
+1. Clone the repository. Click a [link](https://github.com/aerapp09/JavaScript_Projects 'Repository Home')
 2. Click the green "Code" button. You have the option of downloading the Zip or use the Github app. 
 
 3. Once downloaded. Unzip the file so it is in a folder on your computer. Click on the folder for one of the applications. A good starting app is the TicTacToe app, which you can see here:
