@@ -3,7 +3,8 @@
 A repository for my Javascript projects
 
 ## Why the project is useful
-It contains the building blocks of writing Javascript
+It contains the building blocks of writing Javascript. You can take a look at how to do certain things by clicking on a project.
+For example : (Basic_JavaScript_Projects/Tictactoe)
 
 ## How users can get started with the project
 Take a look if you are interested in learning some Javascript.
