@@ -3,14 +3,19 @@
 This contains projects for getting started with Javascript and ends with 3 apps:
 * A fun Tictactoe app that uses chickens.
 * A countdown app utilizing slideshow. Click and watch it countdown. 
-* A todo list app that is useful for anyone who needs a digital todo list. Both add and subtract items. 
+* A todo list app that is useful for anyone who needs a digital todo list. Both add and subtract items.
+* A pizza ordering application that allows you to add toppings, size, and returns a price for the pizza. 
 
 ## Why the project is useful
-This project contains the building blocks for writing Javascript. You can take a look at how to do certain things by clicking on a project.
-[Example Project Utilizing Javascript](/Tictactoe/Tictactoe.html)
+This project displays the utility of Javascript. You can 
 
 ## How users can get started with the project
-Take a look if you are interested in learning some Javascript.
+1. Clone the repository.
+
+2. Click on the folder for one of the applications. A good starting app is the TicTacToe app, which you can see here:
+[Using Javascript to make a Tic Tac Toe Game](/Tictactoe/Tictactoe.html)
+
+3. Double click on the Tictactoe.html file in the Tictactoe folder and open with a browser.
 
 ## Where users can get help with your project
 Message me on Linkedin or email on my homepage
