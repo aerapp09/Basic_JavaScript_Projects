@@ -1,9 +1,12 @@
 # Basic_JavaScript_Projects
 ## What the project does
-A repository for my Javascript projects
+This contains projects for getting started with Javascript and ends with 3 apps:
+* A fun Tictactoe app that uses chickens.
+* A countdown app utilizing slideshow. Click and watch it countdown. 
+* A todo list app that is useful for anyone who needs a digital todo list. Both add and subtract items. 
 
 ## Why the project is useful
-It contains the building blocks of writing Javascript. You can take a look at how to do certain things by clicking on a project.
+This project contains the building blocks for writing Javascript. You can take a look at how to do certain things by clicking on a project.
 [Example Project Utilizing Javascript](/Tictactoe/Tictactoe.html)
 
 ## How users can get started with the project
