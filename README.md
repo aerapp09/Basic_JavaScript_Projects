@@ -1,4 +1,4 @@
-# Basic_JavaScript_Projects
+# Welcome to JavaScript_Projects
 ## What the project does
 This contains projects for getting started with Javascript and ends with 3 apps:
 * A fun Tictactoe app that uses chickens.
