@@ -22,4 +22,6 @@ This project displays the utility of Javascript. You can
 Message me on [LinkedIn](https://www.linkedin.com/in/austin-develops/) or through my [email](aerapp09@gmail.com).
 
 ## Who maintains and contributes to the project
-Me!
+Right now only I do, but feel free to submit a change to github and I will take a look.
+
+## Thanks for stopping by! 
